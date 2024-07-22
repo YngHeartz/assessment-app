@@ -16,7 +16,6 @@ function App() {
         <TextInput />
         <TodoList />
         <SVGBarChart data={barChartData} />
-        <h1>This is the test for the 4.3 PA</h1>
       </header>
     </div>
   );
